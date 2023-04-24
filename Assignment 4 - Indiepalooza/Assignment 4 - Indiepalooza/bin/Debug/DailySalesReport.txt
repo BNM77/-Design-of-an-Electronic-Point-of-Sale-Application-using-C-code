@@ -1,0 +1,13 @@
+10/12/2021 14:47:46
+Overall Daily Revenue:
+€981.45
+Daily Total Transactions Amount:
+5
+Amount of individual gigs booked:
+9
+Daily amount of tickets sold:
+39
+Average amount of tickets sold per transaction:
+7.8
+Average total spend per transaction:
+€196.29
